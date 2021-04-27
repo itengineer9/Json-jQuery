@@ -1,0 +1,31 @@
+{
+   "a_words": {
+       "abject":"most unfortunate or miserable",
+       "abstract":"existing only in the mind",
+       "accomplice":"a person who joins with another in carrying out some plan",
+       "adorn":"make more attractive, as by adding ornament or color"
+       
+   },
+   
+   "b_words": {
+        "Babble":"Talk rapidly in a foolish or confused way",
+        "Blend":"To mix smoothly, merge well",
+        "Bereave":"To leave in a sad or lonely state, as by death",
+        "Baulk":"Hesitate to accept, thwart or hinder"
+       
+   },
+   
+   "c_words": {
+       "chimerical":"produced by a wildly fanciful imagination",
+       "compliant":"disposed to act in accordance with someone's wishes",
+       "concord":"a harmonious state of things and of their properties",
+       "confound":"mistake one thing for another"
+    },
+    
+    "d_words": {
+       "dhimerical":"produced by a wildly fanciful imagination",
+       "dompliant":"disposed to act in accordance with someone's wishes",
+       "doncord":"a harmonious state of things and of their properties",
+       "donfound":"mistake one thing for another"
+    }
+}

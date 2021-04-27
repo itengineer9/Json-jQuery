@@ -1,0 +1,33 @@
+
+/* 
+    Created on : 10.03.2021, 08:54:17
+    Author     : ahmad
+*/
+
+nav {
+   font-size: 18px;
+   margin-left: 10px; 
+   background: lightgrey;
+}
+
+nav a{
+   font-size: 18px;
+   margin: 20px;  
+}
+
+
+table {
+     margin: 10px; 
+     font-size: 20px;
+}
+
+th{
+    font-size: 20px;
+    font-weight: 800;
+    background:lightsteelblue; 
+}
+
+td, th{
+     padding: 10px;
+     border: 1px solid gray;
+ }
